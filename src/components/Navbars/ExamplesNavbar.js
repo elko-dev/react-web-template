@@ -74,7 +74,7 @@ function ExamplesNavbar() {
             data-placement="bottom"
             to="/index"
             target="_blank"
-            title="Coded by Creative Tim"
+            title="Elko LLC"
             tag={Link}
           >
             Paper Kit 2
@@ -100,14 +100,6 @@ function ExamplesNavbar() {
             <NavItem>
               <NavLink to="/index" tag={Link}>
                 <i className="nc-icon nc-layout-11" /> Components
-              </NavLink>
-            </NavItem>
-            <NavItem>
-              <NavLink
-                href="https://demos.creative-tim.com/myapp/#/documentation?ref=pkr-examples-navbar"
-                target="_blank"
-              >
-                <i className="nc-icon nc-book-bookmark" /> Documentation
               </NavLink>
             </NavItem>
             <NavItem>

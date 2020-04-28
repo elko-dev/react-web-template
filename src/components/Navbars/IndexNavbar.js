@@ -69,9 +69,9 @@ function IndexNavbar() {
             data-placement="bottom"
             href="/index"
             target="_blank"
-            title="Coded by Creative Tim"
+            title="Elko LLC"
           >
-            Paper Kit React
+            Elko LLC
           </NavbarBrand>
           <button
             aria-expanded={navbarCollapse}
@@ -136,14 +136,6 @@ function IndexNavbar() {
               </NavLink>
             </NavItem>
             <NavItem>
-              <NavLink
-                href="https://demos.creative-tim.com/myapp/#/documentation?ref=pkr-index-navbar"
-                target="_blank"
-              >
-                <i className="nc-icon nc-book-bookmark" /> Documentation
-              </NavLink>
-            </NavItem>
-            <NavItem>
               <Button
                 className="btn-round"
                 color="danger"
@@ -151,7 +143,7 @@ function IndexNavbar() {
                 target="_blank"
                 disabled
               >
-                Upgrade to Pro
+                Login
               </Button>
             </NavItem>
           </Nav>

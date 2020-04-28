@@ -31,34 +31,33 @@ function DemoFooter() {
             <ul>
               <li>
                 <a
-                  href="https://www.creative-tim.com?ref=pkr-footer"
+                  href="https://elko.dev/"
                   target="_blank"
                 >
-                  Creative Tim
+                  Elko LLC
                 </a>
               </li>
               <li>
                 <a
-                  href="http://blog.creative-tim.com/?ref=pkr-footer"
+                  href="https://elko.dev/contact/"
                   target="_blank"
                 >
-                  Blog
+                  Contact
                 </a>
               </li>
               <li>
                 <a
-                  href="https://www.creative-tim.com/license?ref=pkr-footer"
+                  href="https://elko.dev/about-us-2/"
                   target="_blank"
                 >
-                  Licenses
+                  About
                 </a>
               </li>
             </ul>
           </nav>
           <div className="credits ml-auto">
             <span className="copyright">
-              © {new Date().getFullYear()}, made with{" "}
-              <i className="fa fa-heart heart" /> by Creative Tim
+              © {new Date().getFullYear()}, made by Elko
             </span>
           </div>
         </Row>
