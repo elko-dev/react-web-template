@@ -51,7 +51,7 @@ function Index() {
   return (
 
     <>
-        <SimpleMapPage />
+      <SimpleMapPage />
 
       <IndexNavbar />
       <IndexHeader />
