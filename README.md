@@ -1,6 +1,6 @@
-# [Paper Kit React - Free Bootstrap 4, React, React Hooks and Reactstrap UI Kit](https://demos.creative-tim.com/paper-kit-react/#/index?ref=pkr-github-readme) ![version](https://img.shields.io/badge/version-1.0.0-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/material-kit.svg?maxAge=2592000)](https://github.com/creativetimofficial/paper-kit-react/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/paper-kit-react.svg?maxAge=2592000)](https://github.com/creativetimofficial/paper-kit-react/issues?q=is%3Aissue+is%3Aclosed) [![Join the chat at https://gitter.im/NIT-dgp/General](https://badges.gitter.im/NIT-dgp/General.svg)](https://gitter.im/creative-tim-general/Lobby) [![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/E4aHAQy)
+# [Paper Kit React - Free Bootstrap 4, React, React Hooks and Reactstrap UI Kit](https://demos.creative-tim.com/myapp/#/index?ref=pkr-github-readme) ![version](https://img.shields.io/badge/version-1.0.0-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/material-kit.svg?maxAge=2592000)](https://github.com/creativetimofficial/myapp/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/myapp.svg?maxAge=2592000)](https://github.com/creativetimofficial/myapp/issues?q=is%3Aissue+is%3Aclosed) [![Join the chat at https://gitter.im/NIT-dgp/General](https://badges.gitter.im/NIT-dgp/General.svg)](https://gitter.im/creative-tim-general/Lobby) [![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/E4aHAQy)
 
-![Paper Kit React](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/paper-kit-react/opt_pk_react_thumbnail.jpg)
+![Paper Kit React](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/myapp/opt_pk_react_thumbnail.jpg)
 
 Paper Kit React is a free Bootstrap 4, React, React Hooks and Reactstrap UI Kit with pale colors, beautiful typography and thoughtful drawings. We've created it having paper and drawings in mind.
 
@@ -24,13 +24,13 @@ Paper Kit React is built on top of Bootstrap 4 using React and Reactstrap, so it
 Paper Kit React contains some pages already designed and implemented. Here is the list with the pages available. We are also working on more example pages, that you will be able to access no matter the version you download.
 
 
-* [Landing Page](https://demos.creative-tim.com/paper-kit-react/#/landing-page?ref=pkr-github-readme)
-* [Register](https://demos.creative-tim.com/paper-kit-react/#/register-page?ref=pkr-github-readme)
-* [Profile Page](https://demos.creative-tim.com/paper-kit-react/#/profile-page?ref=pkr-github-readme)
+* [Landing Page](https://demos.creative-tim.com/myapp/#/landing-page?ref=pkr-github-readme)
+* [Register](https://demos.creative-tim.com/myapp/#/register-page?ref=pkr-github-readme)
+* [Profile Page](https://demos.creative-tim.com/myapp/#/profile-page?ref=pkr-github-readme)
 
 Tutorial and components
 
-Once you download the archive, you will be able find a tutorial page inside it explaining how to start using it. You can also check the [documentation online](https://demos.creative-tim.com/paper-kit-react/#/documentation/introduction?ref=pkr-github-readme).
+Once you download the archive, you will be able find a tutorial page inside it explaining how to start using it. You can also check the [documentation online](https://demos.creative-tim.com/myapp/#/documentation/introduction?ref=pkr-github-readme).
 
 
 ## Table of Contents
@@ -50,13 +50,13 @@ Once you download the archive, you will be able find a tutorial page inside it e
 
 | HTML | Angular | React |
 | --- | --- | --- |
-| [![Paper Kit 2 HTML](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/paper-kit-2-html/opt_pk2_thumbnail.jpg)](https://www.creative-tim.com/product/paper-kit-2?ref=pkr-github-readme)  | [![Paper Kit 2 Angular](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/paper-kit-2-angular/opt_pk2_angular_thumbnail.jpg)](https://www.creative-tim.com/product/paper-kit-2-angular?ref=pkr-github-readme)  | [![Paper Kit  React](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/paper-kit-react/opt_pk_react_thumbnail.jpg)](https://www.creative-tim.com/product/paper-kit-react?ref=pkr-github-readme)  
+| [![Paper Kit 2 HTML](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/paper-kit-2-html/opt_pk2_thumbnail.jpg)](https://www.creative-tim.com/product/paper-kit-2?ref=pkr-github-readme)  | [![Paper Kit 2 Angular](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/paper-kit-2-angular/opt_pk2_angular_thumbnail.jpg)](https://www.creative-tim.com/product/paper-kit-2-angular?ref=pkr-github-readme)  | [![Paper Kit  React](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/myapp/opt_pk_react_thumbnail.jpg)](https://www.creative-tim.com/product/myapp?ref=pkr-github-readme)  
 
 | Register Page | Landing Page | Profile Page  |
 | --- | --- | ---  |
-| [![Register Page](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/paper-kit-react/register.png)](https://demos.creative-tim.com/paper-kit-react/#/register-page?ref=pkr-github-readme)  | [![Landing Page](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/paper-kit-react/landing.png)](https://demos.creative-tim.com/paper-kit-react/#/landing-page?ref=pkr-github-readme)  | [![Profile Page](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/paper-kit-react/profile.png)](https://demos.creative-tim.com/paper-kit-react/#/profile-page?ref=pkr-github-readme)  
+| [![Register Page](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/myapp/register.png)](https://demos.creative-tim.com/myapp/#/register-page?ref=pkr-github-readme)  | [![Landing Page](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/myapp/landing.png)](https://demos.creative-tim.com/myapp/#/landing-page?ref=pkr-github-readme)  | [![Profile Page](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/myapp/profile.png)](https://demos.creative-tim.com/myapp/#/profile-page?ref=pkr-github-readme)  
 
-[View More](https://demos.creative-tim.com/paper-kit-react/#/index?ref=pkr-github-readme)
+[View More](https://demos.creative-tim.com/myapp/#/index?ref=pkr-github-readme)
 
 ## Quick start
 
@@ -67,14 +67,14 @@ Once you download the archive, you will be able find a tutorial page inside it e
 5.  Run in terminal `npm start`.
 
 ## Documentation
-The documentation for the Paper Kit React is hosted at our [website](https://demos.creative-tim.com/paper-kit-react/#/documentation/introduction?ref=pkr-github-readme).
+The documentation for the Paper Kit React is hosted at our [website](https://demos.creative-tim.com/myapp/#/documentation/introduction?ref=pkr-github-readme).
 
 
 ## File Structure
 
 Within the download you'll find the following directories and files:
 ```
-paper-kit-react
+myapp
 .
 ├── CHANGELOG.md
 ├── ISSUE_TEMPLATE.md
@@ -151,12 +151,12 @@ At present, we officially aim to support the last two versions of the following 
 
 
 ## Resources
-- Demo: <http://demos.creative-tim.com/paper-kit-react/#/index?ref=pkr-github-readme>
-- Download Page: <https://www.creative-tim.com/product/paper-kit-react?ref=pkr-github-readme>
-- Documentation: <https://demos.creative-tim.com/paper-kit-react/#/documentation/introduction?ref=pkr-github-readme>
+- Demo: <http://demos.creative-tim.com/myapp/#/index?ref=pkr-github-readme>
+- Download Page: <https://www.creative-tim.com/product/myapp?ref=pkr-github-readme>
+- Documentation: <https://demos.creative-tim.com/myapp/#/documentation/introduction?ref=pkr-github-readme>
 - License Agreement: <https://www.creative-tim.com/license?ref=pkr-github-readme>
 - Support: <https://www.creative-tim.com/contact-us?ref=pkr-github-readme>
-- Issues: [Github Issues Page](https://github.com/creativetimofficial/paper-kit-react/issues)
+- Issues: [Github Issues Page](https://github.com/creativetimofficial/myapp/issues)
 
 
 **Dashboards:**
@@ -202,3 +202,7 @@ Facebook: <https://www.facebook.com/CreativeTim>
 Dribbble: <https://dribbble.com/creativetim>
 
 Instagram: <https://www.instagram.com/CreativeTimOfficial>
+
+
+{/* <MyGreatPlace lat={59.955413} lng={30.337844} text={'A'} /* Kreyser Avrora */ /> */}
+                {/* <MyGreatPlace {...this.props.greatPlaceCoords} text={'B'} /* road circle */ /> */}

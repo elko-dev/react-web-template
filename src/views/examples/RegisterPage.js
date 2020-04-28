@@ -4,10 +4,10 @@
 * Paper Kit React - v1.0.0
 =========================================================
 
-* Product Page: https://www.creative-tim.com/product/paper-kit-react
+* Product Page: https://www.creative-tim.com/product/myapp
 
 * Copyright 2019 Creative Tim (https://www.creative-tim.com)
-* Licensed under MIT (https://github.com/creativetimofficial/paper-kit-react/blob/master/LICENSE.md)
+* Licensed under MIT (https://github.com/creativetimofficial/myapp/blob/master/LICENSE.md)
 
 * Coded by Creative Tim
 

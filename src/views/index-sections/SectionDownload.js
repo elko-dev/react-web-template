@@ -4,10 +4,10 @@
 * Paper Kit React - v1.0.0
 =========================================================
 
-* Product Page: https://www.creative-tim.com/product/paper-kit-react
+* Product Page: https://www.creative-tim.com/product/myapp
 
 * Copyright 2019 Creative Tim (https://www.creative-tim.com)
-* Licensed under MIT (https://github.com/creativetimofficial/paper-kit-react/blob/master/LICENSE.md)
+* Licensed under MIT (https://github.com/creativetimofficial/myapp/blob/master/LICENSE.md)
 
 * Coded by Creative Tim
 
@@ -41,7 +41,7 @@ function SectionDownload() {
               <Button
                 className="btn-round"
                 color="danger"
-                href="http://www.creative-tim.com/product/paper-kit-react?ref=pkr-index-page"
+                href="http://www.creative-tim.com/product/myapp?ref=pkr-index-page"
                 target="_blank"
               >
                 Download free React
@@ -111,7 +111,7 @@ function SectionDownload() {
               <Button
                 className="sharrre btn-round ml-2"
                 color="github-bg"
-                href="https://github.com/creativetimofficial/paper-kit-react?ref=creativetim"
+                href="https://github.com/creativetimofficial/myapp?ref=creativetim"
                 target="_blank"
                 id="tooltip864353654"
               >
