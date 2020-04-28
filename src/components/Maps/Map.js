@@ -21,9 +21,11 @@ function SimpleMapPage() {
                     // apiKey={YOUR_GOOGLE_MAP_API_KEY} // set if you need stats etc ...
                     center={[44.976400, -93.268548]}
                     zoom={9} >
+                    <Location lat={44.976402} lng={-93.268549} text={'A'}/>
+                    <Location lat={45.076422} lng={-93.36958} text={'B'}/>
 
                 </GoogleMap>
-                    
+
                 {/* </GoogleMap> */}
             </div>
             {/* </Container> */}

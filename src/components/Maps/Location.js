@@ -1,15 +1,21 @@
-import React from 'react';
+import React, { Component } from 'react';
 
-export default function Location() {
+export default class Location extends Component {
 
-    return (
-        <>
+    constructor(props) {
+        super(props);
+    }
+    render() {
 
-            <div style={locationStyle}>
-                {this.props.text}
-            </div>
-        </>
-    );
+        return (
+            <>
+
+                <div style={locationStyle}>
+                    {this.props.text}
+                </div>
+            </>
+        );
+    }
 }
 
 const K_WIDTH = 40;
