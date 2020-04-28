@@ -51,11 +51,12 @@ function Index() {
   return (
 
     <>
-      <SimpleMapPage />
+
 
       <IndexNavbar />
       <IndexHeader />
       <div className="main">
+        <SimpleMapPage />
         <SectionButtons />
         <SectionNavbars />
         <SectionNavigation />
