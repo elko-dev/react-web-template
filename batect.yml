@@ -61,7 +61,7 @@ tasks:
     group: Deploy tasks
     run:
       container: docker-push-env
-      command: ./scripts/buildAndPushHeroku.sh
+      command: ./.batect/buildAndPushHeroku.sh
       environment:
         HEROKU_API_KEY: ${HEROKU_API_KEY}
-        APP_NAME: myapps-${ENV}
+        APP_NAME: myapp-${ENV}
