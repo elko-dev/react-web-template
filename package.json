@@ -21,7 +21,7 @@
     "react-pure-render": "^1.0.2",
     "react-router": "5.0.1",
     "react-router-dom": "5.0.1",
-    "react-scripts": "3.0.1",
+    "react-scripts": "5.0.1",
     "reactstrap": "8.0.0",
     "request-promise": "^4.2.5"
   },
